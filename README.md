@@ -6,4 +6,4 @@ The project is set up in a python package approach. A package is a directory wit
 
 
 ## What I learned
-I learned that building a auction site is an easy and strightforward task, it took quite a lot of work and an almost never ending process of making adjustments and fixing (small) bugs. 
+I learned that building a auction site is not an easy and strightforward task, it took quite a lot of work and an almost never ending process of making adjustments and fixing (small) bugs. 
